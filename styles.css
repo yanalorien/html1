@@ -1,0 +1,38 @@
+body {
+    background: #d7ffdc;
+}
+
+div {
+    background: #45d194;
+    text-align: center;
+    border: 2px solid #45d194;
+    color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+a {
+    color: white;
+}
+
+h1 {
+    background: lightgreen;
+    border: 2px solid green;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+table {
+    color: black;
+    border: 2px solid green;
+    background: white;
+    text-decoration-color: black;
+    margin: 20px;
+}
+
+thead {
+    text-align: center;
+}
